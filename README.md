@@ -1,2 +1,2 @@
-# Gera-o-de-jogos-para-Lotof-cil
+# Geração de jogos para Lotofácil
 Método para gerar jogos aleatórios e não repetidos da Lotofácil
